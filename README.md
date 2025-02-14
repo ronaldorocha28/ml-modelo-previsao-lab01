@@ -29,6 +29,3 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02
 ### Observação: 
 
 **No momento, estou sem acesso à conta no Azure; todavia, deixo o projeto descrito aqui para que, futuramente, quando eu tiver acesso à plataforma, possa concluir o projeto mencionado.**
-
-</body>
-</html>
